@@ -12,6 +12,7 @@
 <a href="https://fb.com/lokeshpathuri11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lokeshpathuri11" height="30" width="40" /></a>
 <a href="https://instagram.com/lokeshpathuri11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokeshpathuri11" height="30" width="40" /></a>
 <a href="https://discord.gg/lokesh11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lokesh11_" height="30" width="40" /></a>
+![image](https://github.com/user-attachments/assets/d03bf68e-8dee-4f63-82ef-a75d60ce04e1)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
